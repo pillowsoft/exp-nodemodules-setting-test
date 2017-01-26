@@ -15,4 +15,4 @@ A repo to demo either a bug in exp cli tools or a misunderstanding on my part, w
 
 ## Results
 
-The package manager hangs starting up.
+The command seems to get stuck waiting for the package manager to start up.
